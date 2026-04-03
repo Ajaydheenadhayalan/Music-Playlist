@@ -2,9 +2,7 @@
 
 ## 🎬 Demo
 
-<video controls width="80%">
-  <source src="https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4" type="video/mp4">
-</video>
+[![Watch Demo](https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png)](https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4)
 
 ---
 
