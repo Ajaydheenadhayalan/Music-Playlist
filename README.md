@@ -2,7 +2,9 @@
 
 ## 🎬 Demo
 
-https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4
+<video controls width="80%">
+  <source src="https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4" type="video/mp4">
+</video>
 
 ---
 
